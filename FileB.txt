@@ -1,2 +1,2 @@
 This is FileB
-This is nthe change made to FileB
+Let's make the change
